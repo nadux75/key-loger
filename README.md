@@ -30,11 +30,7 @@ Petit exemple : j'ai envoyé minecraft craqué a un ami qui va l'ouvrir, en cliq
 
 <img width="708" alt="Capture d’écran 2023-08-18 à 15 44 03" src="https://github.com/nadux75/key-loger/assets/141399663/5971fefc-944b-4636-8cf9-16307d68d7e4">
 
-Voilà ce que mon ami écrit dans son bloc note
-
- <img width="535" alt="Capture d’écran 2023-08-18 à 15 42 30" src="https://github.com/nadux75/key-loger/assets/141399663/0cbb9654-557d-4ef4-8b3e-b6feca94ce0d">
- 
-et voici ce que je reçois par mail
+Voilà ce que mon ami écrit dans son bloc note et vous devriez recevoir par mail un screenshot de son écran et de ce qu'il a écrit
 
 # ce que fait ce programme :
 1 Enregistrez les frappes et stockez-les dans un fichier texte.
